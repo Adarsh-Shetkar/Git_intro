@@ -8,4 +8,17 @@ git push origin master
 
 git pull origin master
 
+
+how to make local - git connection :-
+git remote add origin https://github.com/Adarsh-Shetkar/Git_intro.git
+then go for
+git push origin master
+
 when modification done on git
+
+how to make git to local host connection :-
+
+git add .
+git commit -m "Any messsage"
+then go for
+git pull origin master
