@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is my first line 
 
 
@@ -6,3 +7,8 @@ This is my first line
 
 
 This is third line
+=======
+This is my first line that I added
+
+This is the second line
+>>>>>>> 3a0f0b81b6e3eb06a6fa20e0be3a7be8fd0b6584
